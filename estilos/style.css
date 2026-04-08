@@ -1,0 +1,17 @@
+{
+    font-family:arial, helvetica, sans-serif;
+    font-size: 16px;
+}
+
+body, {
+    background-colcor: rgb{204, 157, 248};
+
+}
+
+main{
+    background-color: white;
+    width: 500px;
+    margini auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgb(77, 36, 36)
+}
